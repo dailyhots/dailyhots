@@ -1,0 +1,3 @@
+[submodule "themes/huly"]
+	path = themes/huly
+	url = https://github.com/dailyhots/huly.git
